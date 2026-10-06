@@ -1,0 +1,14 @@
+{
+  "name": "contractproposalwriter",
+  "owner": { "name": "scalebep" },
+  "metadata": {
+    "description": "Contract and proposal writer skill for Claude Code, from borghei/Claude-Skills (MIT + Commons Clause)"
+  },
+  "plugins": [
+    {
+      "name": "contract-and-proposal-writer",
+      "description": "Drafts contracts, proposals, SOWs, NDAs and MSAs with jurisdiction-aware clauses",
+      "source": "./"
+    }
+  ]
+}

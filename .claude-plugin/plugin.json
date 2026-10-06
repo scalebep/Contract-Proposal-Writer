@@ -1,0 +1,8 @@
+{
+  "name": "contract-and-proposal-writer",
+  "description": "Drafts contracts, proposals, SOWs, NDAs and MSAs with jurisdiction-aware clauses for the US, EU, UK and DACH",
+  "version": "1.0.0",
+  "author": { "name": "Amin Borghei (borghei)" },
+  "repository": "https://github.com/scalebep/Contract-Proposal-Writer",
+  "license": "MIT + Commons Clause"
+}
